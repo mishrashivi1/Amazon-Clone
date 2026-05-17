@@ -5,22 +5,31 @@ A static clone of the Amazon homepage built using HTML and CSS to practice layou
 🚀 Features
 
 🧭 Navigation bar with logo, search bar, and menu
+
 📦 Product sections layout
+
 🎯 Banner / hero section
+
 🧱 Grid-based product display
+
 🎨 Styled using pure CSS
 
 🧠 What I Learned
 
 Structuring layouts using HTML
+
 CSS Flexbox and Grid
+
 Positioning elements properly
+
 Building real-world UI layouts
+
 Improving design accuracy by cloning
 
 🛠️ Tech Stack
 
 🌐 HTML
+
 🎨 CSS (Flexbox + Grid)
 
 📸 Preview
@@ -32,8 +41,11 @@ Improving design accuracy by cloning
 
 ⚙️ How to Run
 Clone the repository:
+
 git clone https://github.com/mishrashivi1/Amazon-Clone
+
 Open the folder
+
 Run by opening index.html in your browser
 
 📂 Project Structure
@@ -46,9 +58,13 @@ Run by opening index.html in your browser
 💡 Future Improvements
 
 📱 Make it fully responsive
+
 🔍 Add search functionality (JavaScript)
+
 🛍️ Add product pages
+
 🧾 Add cart system
+
 ⚡ Convert into React app
 
 ⚠️ Disclaimer
