@@ -32,20 +32,25 @@ Improving design accuracy by cloning
 
 ⚙️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mishrashivi1/Amazon-Clone
 Open the folder
 Run by opening index.html in your browser
+
 📂 Project Structure
+
 /project-folder
  ├── index.html
  ├── style.css
- ├── assets/
+
+ 
 💡 Future Improvements
+
 📱 Make it fully responsive
 🔍 Add search functionality (JavaScript)
 🛍️ Add product pages
 🧾 Add cart system
 ⚡ Convert into React app
+
 ⚠️ Disclaimer
 
 This project is for educational purposes only.
